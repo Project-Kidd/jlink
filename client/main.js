@@ -1,0 +1,1 @@
+console.log('JLink frontend loaded');
